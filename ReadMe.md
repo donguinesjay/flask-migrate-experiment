@@ -9,7 +9,7 @@ RUN: `python manage.py db init`
 
 For multiple database
 ---------------------
-RUN: `python manage.py db init --multidb
+RUN: `python manage.py db init --multidb`
 
 To run the server
 -----------------
